@@ -1,4 +1,3 @@
-edited
 KINEMATICS AND KINETICS IN MECHANICS
 
 1. KINEMATICS
@@ -57,4 +56,3 @@ CONCLUSION:
 - Kinematics describes motion using equations without considering forces.
 - Kinetics explains motion in terms of forces, energy, and momentum.
 - Both are essential in solving physics and engineering problems.
-
