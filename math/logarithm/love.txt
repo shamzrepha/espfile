@@ -1,14 +1,180 @@
-whatsaupp
-nvv
-,jhgchcc
-mchgcyc
-kcfhggxhc
-mhcfhjgftyc
-,hchgcfgc
-nchgchgc
-mchgchcjgccncvjcvjvcj
-cfxcjhvkjbkvbvkjh
-cvhgdhtgcncjg
-ncchgcgcvjh
-vhxfxyfhcjhjhhjk
-nchcvjhvmnvmv
+Kinematics and Kinetics in Mechanics
+1. Kinematics
+Kinematics is the branch of mechanics that deals with the motion of objects without considering the forces that cause the motion. It focuses on parameters such as:
+
+Displacement (s) – The change in position of an object.
+Velocity (v) – The rate of change of displacement with time.
+Acceleration (a) – The rate of change of velocity with time.
+Types of Motion in Kinematics
+Rectilinear Motion – Motion along a straight line.
+
+Equations of Motion (for constant acceleration):
+𝑣
+=
+𝑢
++
+𝑎
+𝑡
+v=u+at
+𝑠
+=
+𝑢
+𝑡
++
+1
+2
+𝑎
+𝑡
+2
+s=ut+ 
+2
+1
+​
+ at 
+2
+ 
+𝑣
+2
+=
+𝑢
+2
++
+2
+𝑎
+𝑠
+v 
+2
+ =u 
+2
+ +2as
+Freely Falling Bodies – A special case where 
+𝑎
+=
+𝑔
+=
+9.8
+ 
+𝑚
+/
+𝑠
+2
+a=g=9.8m/s 
+2
+ .
+Projectile Motion – Motion in two dimensions under gravity.
+
+Horizontal motion: 
+𝑣
+𝑥
+=
+𝑢
+cos
+⁡
+𝜃
+v 
+x
+​
+ =ucosθ (constant velocity).
+Vertical motion: 
+𝑣
+𝑦
+=
+𝑢
+sin
+⁡
+𝜃
+−
+𝑔
+𝑡
+v 
+y
+​
+ =usinθ−gt.
+Time of flight: 
+𝑇
+=
+2
+𝑢
+sin
+⁡
+𝜃
+𝑔
+T= 
+g
+2usinθ
+​
+ .
+Maximum height: 
+𝐻
+=
+𝑢
+2
+sin
+⁡
+2
+𝜃
+2
+𝑔
+H= 
+2g
+u 
+2
+ sin 
+2
+ θ
+​
+ .
+Range: 
+𝑅
+=
+𝑢
+2
+sin
+⁡
+2
+𝜃
+𝑔
+R= 
+g
+u 
+2
+ sin2θ
+​
+ .
+Circular Motion – Motion along a circular path.
+
+Angular velocity: 
+𝜔
+=
+𝑑
+𝜃
+𝑑
+𝑡
+ω= 
+dt
+dθ
+​
+ .
+Centripetal acceleration: 
+𝑎
+𝑐
+=
+𝑣
+2
+𝑟
+=
+𝜔
+2
+𝑟
+a 
+c
+​
+ = 
+r
+v 
+2
+ 
+​
+ =ω 
+2
+ r.
