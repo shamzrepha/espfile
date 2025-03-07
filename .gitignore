@@ -1,0 +1,15 @@
+# Ignore the config.h file containing WiFi credentials
+config.h
+
+# Ignore build files
+/build/
+/*.bin
+/*.elf
+/*.hex
+
+# Ignore Arduino library dependencies
+/libraries/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
